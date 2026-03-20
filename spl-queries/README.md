@@ -2,7 +2,7 @@ SOLVING A SYSMON LAB FROM BTLO USING SPLUNK.
 
 
 1.What is the file that gave access to the attacker?  
-# we search for event od 1 seeing what new processes are being created and then filter it by stats count by comaand to filter for commandline sourcetype.
+# we search for event id 1 seeing what new processes are being created and then filter it by stats count by comaand to filter for commandline sourcetype.
 this shows us which process was being created. we see that updater.hta is suspicious to be sure we will see if it has any ther child processes and look for data exfiltration.
 
 
