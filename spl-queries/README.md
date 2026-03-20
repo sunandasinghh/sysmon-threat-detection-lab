@@ -45,4 +45,4 @@ the correct answer according to the lab is ftp.exe
 #Reverse shell mean when attacker establishes a backdoor connection from the infected system to the attacker's Command and Control (C2) server, enabling the attacker to execute commands on the infected machine and potentially exfiltrate sensitive information.
 using the stats count by command data we see that its tryig to create bsckdoor connection to 9898
 
-#[img](https://github.com/sunandasinghh/sysmon-threat-detection-lab/blob/df02996c6ed2cba49591ddd2c0cd9518aa6bf5df/spl-queries/reverseshell.png)
+![img](https://github.com/sunandasinghh/sysmon-threat-detection-lab/blob/df02996c6ed2cba49591ddd2c0cd9518aa6bf5df/spl-queries/reverseshell.png)
